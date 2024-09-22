@@ -27,6 +27,7 @@ class MyApp extends StatelessWidget {
             Theme.of(context).textTheme,
           ),
         ),
+        //test code
         home: const SplashScreen());
   }
 }
